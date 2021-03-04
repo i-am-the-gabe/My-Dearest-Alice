@@ -1,6 +1,6 @@
 # My Dearest Alice 
 
-The will of a tortured detective to find his missing wife is sparked again when a police officer disappears at the same location as his wife.
+The will of a tortured detective to find his missing wife is sparked again when a police officer disappears at the same location as her.
 
 **Nobody leaves St. Marc's unharmed.**
 
