@@ -10,4 +10,4 @@ Demo Playthrough: https://youtu.be/WJKWCaS1U_k
 
 
 
-Repository for game assets.
+Repository for the game assets I'm willing to share.
