@@ -7,8 +7,8 @@ public class Footsteps : MonoBehaviour
 {
     public AudioClip walkSound;
     public AudioSource source;
-    public float footStepDelay;
 
+    public float footStepDelay;
     private float nextFootstep = 0;
 
     void Update()
