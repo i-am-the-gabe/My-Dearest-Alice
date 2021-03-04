@@ -1,3 +1,1 @@
-# PSX Retroshader available here: https://github.com/dsoft20/psx_retroshader
-
-"Shaders collection for Unity that "emulates" the rendering style of ps1" 
+**My Dearest Alice** uses the `vertexlit` shader present in the psx_retroshader repository by dsoft20: https://github.com/dsoft20/psx_retroshader
