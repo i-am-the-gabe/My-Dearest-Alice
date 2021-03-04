@@ -1,1 +1,1 @@
-Most of these are only used once in the game, or for the player character, the flashlight or the WalkieTalkie.
+Most of these are only used once in the game, or on the player character, flashlight or Walkie-Talkie.
