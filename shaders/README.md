@@ -1,1 +1,1 @@
-# Taken from: https://github.com/dsoft20/psx_retroshader
+# PSX_Retroshader: https://github.com/dsoft20/psx_retroshader
